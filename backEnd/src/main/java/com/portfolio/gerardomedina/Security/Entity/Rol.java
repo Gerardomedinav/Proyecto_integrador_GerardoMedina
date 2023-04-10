@@ -5,12 +5,12 @@
 package com.portfolio.gerardomedina.Security.Entity;
 
 import com.portfolio.gerardomedina.Security.Enums.RolNombre;
-import jakarta.persistence.Entity;
-import jakarta.persistence.EnumType;
-import jakarta.persistence.Enumerated;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
 import jakarta.validation.constraints.NotNull;
+import javax.persistence.Entity;
+import javax.persistence.EnumType;
+import javax.persistence.Enumerated;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 
 /**
  *
